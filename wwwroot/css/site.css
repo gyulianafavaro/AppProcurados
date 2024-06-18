@@ -1,0 +1,121 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+html, body {
+    font-size: 14px;
+    font-family: Arial;
+    margin: 0 auto;
+    color: #341C05;
+}
+
+.caixa {
+    margin-left: 87px;
+    width: 60%;
+}
+
+table {
+    margin-left: 74px;
+}
+
+.caixona {
+    margin-top: 80px;
+}
+
+.table-caixa {
+    width: 61%;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #341C05;
+}
+
+a {
+    color: #341C05;
+    text-decoration: none;
+}
+
+.nav-link .text-dark {
+    margin-left: 10px;
+}
+
+th {
+    color: #341C05;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: white;
+    color: #341C05;
+    font-weight: 550;
+}
+
+.Logo {
+    width: 90px;
+    margin: 0 auto;
+}
+
+.imp-logo {
+    width: 55px;
+    margin: 0 auto;
+    margin-left: 44%;
+    margin-top: 64%;
+}
+p {
+    font-size: 17px;
+    margin-left: 63px;
+}
+
+.btn:hover {
+    background-color: #844201 !important;
+}
+
+a:hover {
+    color: #844201 !important;
+}
+
+.linha {
+    background-color: #C60000;
+    height: 16px;
+    width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #552A00;
+}
+
+.menu {
+    background-color: #FFE0EF;
+}
+
+.btn {
+    background-color: #552A00;
+    border: none;
+}
